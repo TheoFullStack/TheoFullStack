@@ -6,7 +6,7 @@
     
 </p>
 
-# Hello, there! I am Emir <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-astronaut_1f468-200d-1f680.png" width="30px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, there! I am Teoman. <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/man-astronaut_1f468-200d-1f680.png" width="30px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Teoman. Originally, I am a financial analyst. And,I believe in big data and see the combination of finance and big data as the future of the market.<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/rocket_1f680.png" width="20px">     
 
 I work to improve my coding skills relentlessly  👨‍💻
@@ -27,10 +27,10 @@ You can contact me via LinkedIn: [![LinkedIn][1.1]][1]
 
 ## &#x1f4c8; GitHub Stats
 
-[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aerospacerr&theme=tokyonight)](https://github.com/TheoFullStack/github-readme-stats)
+[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoFullStack&theme=tokyonight)](https://github.com/TheoFullStack/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aerospacerr&theme=jolly)](https://github.com/TheoFullStack/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoFullStack&theme=jolly)](https://github.com/TheoFullStack/github-readme-stats)
 
 
 
@@ -44,11 +44,11 @@ You can contact me via LinkedIn: [![LinkedIn][1.1]][1]
 
 
 
-<a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn icon by Icons8</a>[https://www.linkedin.com/in/teomanaknc/]
+<a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn icon by Icons </a>[https://www.linkedin.com/in/teomanaknc/]
 <a href="https://www.linkedin.com/in/emircan/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoFullStack&repo=github-readme-stats)](https://github.com/TheoFullStack/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoFullStack&repo=github-readme-stats)](https://github.com/TheofullStack/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoFullStack)](https://github.com/TheoFullStack/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoFullStack)](https://github.com/TheofullStack/github-readme-stats)
 
 [![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoFullStack&show_icons=true&theme=tokyonight )](https://github.com/TheoFullStack/github-readme-stats)
 

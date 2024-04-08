@@ -44,13 +44,10 @@ You can contact me via LinkedIn: [![LinkedIn][1.1]][1]
 
 
 
-<a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn icon by Icons </a>[https://www.linkedin.com/in/teomanaknc/]
+<a href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"></a>[https://www.linkedin.com/in/teomanaknc/]
 <a href="https://www.linkedin.com/in/emircan/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoFullStack&repo=TheoFullStack)](https://github.com/TheoFullStack/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoFullStack&repo=TheoFullStack)](https://github.com/TheofullStack/github-readme-stats)
 
-[![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoFullStack&show_icons=true&theme=tokyonight )](https://github.com/TheoFullStack/github-readme-stats)
 
 -->
 
